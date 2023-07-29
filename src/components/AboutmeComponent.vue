@@ -32,7 +32,7 @@
                             Membuat berbagai Project Aplikasi Sederhana dengan JavaScript.
                         </p>
                         <p class="mb-6 text-neutral-500 dark:text-neutral-500">
-                            Saya seorang junior programer yang bersekolah di SMK Assalaam Bandung. Keahlian saya di jruusan
+                            Saya seorang Junior Programmer yang bersekolah di SMK Assalaam Bandung. Keahlian saya di jruusan
                             Rekayasa Perangkat Lunak adalah di bagian Frontend.
                         </p>
                         <table>
